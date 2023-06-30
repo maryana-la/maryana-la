@@ -2,7 +2,7 @@
 
 #### My name is Maryana and I'm a Backend Developer!
 
-- ☕️ I’m currently learning Java plan to look into learning Frondend
+- ☕️ I’m currently learning Java plan to look into learning Frontend
 - 🗂 I love to optimise and shelve everything
 - 🇫🇷 Recently moved to France and enjoy my life here
 
