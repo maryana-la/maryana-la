@@ -1,8 +1,8 @@
 ### Hello World 👋
 
-#### My name is Maryana and I'm a Backend Developer!
+#### My name is Maryana and I'm a Software Developer!
 
-- ☕️ I’m currently learning Java plan to look into learning Frontend
+- ☕️ I’m currently learning Java and looking into mobile developement
 - 🗂 I love to optimise and shelve everything
 - 🇫🇷 Recently moved to France and enjoy my life here
 
